@@ -2,7 +2,7 @@
 # Hello :wave: 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/github.gif" width=100>
+  <img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/img/github.gif" width=100>
   <br><br>
   <samp>
     I'm <a href="https://github.com/sakshamian/">Saksham</a> currently a 2nd Year IT student at <a href="https://www.gbpuat.ac.in/">GBPUAT</a>  and a programmer💻.  I do frontend development and I also like problem solving. Some of my projects are listed below(open to feedback😅).
@@ -12,13 +12,13 @@
 💬 Mail me at <negisaksham363@gmail.com> to connect.
 
 ## Programming Languages  :rocket:
-|<img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/cpp.png" width=80> | <img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/js.png" width=80> | <img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/css.png" width=80> | 
+|<img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/img/cpp.png" width=80> | <img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/img/js.png" width=80> | <img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/img/css.png" width=80> | 
 |:---:|:---:|:---:|
 
 
 ## Tools :fire:
 
-|<img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/react.png" width=80> | <img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/github.svg" width=80> | <img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/vscode.png" width=80> |
+|<img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/img/react.png" width=80> | <img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/img/github.svg" width=80> | <img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/img/vscode.png" width=80> |
 |:---:|:---:|:---:|
 
 
