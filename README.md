@@ -48,5 +48,3 @@
 | 03  | [URL Shortner](https://github.com/sakshamian/URL-shortener)                       | [Live Demo](https://sakshamian.github.io/URL-shortener/) |
 | 04  | [Interactive Comments Section](https://github.com/sakshamian/interactive-comments-section)                          | [Live Demo](https://sakshamian.github.io/interactive-comments-section/)          |
 | 05  | [Rock Paper Scissors Game](https://github.com/sakshamian/rock-paper-scissors-master)                               | [Live Demo](https://sakshamian.github.io/rock-paper-scissors-master/)                |
-|
-
