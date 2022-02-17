@@ -11,18 +11,18 @@
 
 💬 Mail me at <negisaksham363@gmail.com> to connect.
 
-### Programming Languages  :rocket:
+## Programming Languages  :rocket:
 |<img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/cpp.png" width=80> | <img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/js.png" width=80> | <img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/css.png" width=80> | 
 |:---:|:---:|:---:|
 
 
-### Tools :fire:
+## Tools :fire:
 
 |<img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/react.png" width=80> | <img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/github.svg" width=80> | <img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/vscode.png" width=80> |
 |:---:|:---:|:---:|
 
 
-### Connect with me :wink:
+## Connect with me :wink:
 
 <a href="https://www.linkedin.com/in/sakshamian/">
   <img align="left" alt="sakshamian Linkedin" width="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
@@ -40,7 +40,7 @@
 <br>
 <br>
 
-### My projects :innocent:
+## My projects :innocent:
 
 |  S. No.  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
