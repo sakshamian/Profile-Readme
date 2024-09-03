@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    Hi. I'm <a href="https://github.com/sakshamian/">Saksham</a>
+    Hi. I'm <a href="https://github.com/sakshamian/">Saksham Negi</a>. I am a dedicated and lifelong learner, constantly seeking opportunities to expand my knowledge and skills. With a passion for frontend development and a proven track record of success, I am eager to contribute my expertise to a dynamic and forward-thinking organization.
   </samp>
 </p>
 
