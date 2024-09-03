@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    Hi. I'm <a href="https://github.com/sakshamian/">Saksham</a> currently a final Year IT student at <a href="https://www.gbpuat.ac.in/">GBPUAT</a>  and a programmer💻.  I do frontend development and I also like problem solving. Some of my projects are listed below(open to feedback😅).
+    Hi. I'm <a href="https://github.com/sakshamian/">Saksham</a>
   </samp>
 </p>
 
