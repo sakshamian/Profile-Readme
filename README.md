@@ -30,7 +30,7 @@
 <a href="https://www.instagram.com/sakshamnegi_07/">
   <img align="left" alt="Saksham Insta" width="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
 </a>
-<a href="https://twitter.com/sakshamian">
+<a href="https://twitter.com/sakshamnegi_07">
   <img align="left" alt="Saksham twitter" width="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
 <a href="mailto: negisaksham363@gmail.com">
