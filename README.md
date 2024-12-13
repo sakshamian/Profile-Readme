@@ -30,11 +30,11 @@
 <a href="https://www.instagram.com/sakshamnegi_07/">
   <img align="left" alt="Saksham Insta" width="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
 </a>
-<a href="https://twitter.com/sakshamnegi_07">
+<a href="https://twitter.com/fightclub_07">
   <img align="left" alt="Saksham twitter" width="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
-<a href="mailto: negisaksham363@gmail.com">
-  <img align="left" alt="Vedant Jajoo Twitter" width="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/gmail.svg" />
+<a href="mailto: sakshamnegi.dev@gmail.com">
+  <img align="left" alt="mail" width="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/gmail.svg" />
 </a>
 <br>
 <br>
