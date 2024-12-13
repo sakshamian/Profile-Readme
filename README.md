@@ -9,7 +9,7 @@
   </samp>
 </p>
 
-💬 Mail me at <negisaksham363@gmail.com> to connect.
+💬 Mail me at <sakshamnegi.dev@gmail.com> to connect.
 
 ## Programming Languages  :rocket:
 |<img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/img/cpp.png" width=80> | <img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/img/js.png" width=80> | <img src="https://raw.githubusercontent.com/sakshamian/Profile-Readme/master/img/css.png" width=80> | 
