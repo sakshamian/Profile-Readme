@@ -39,13 +39,3 @@
 <br>
 <br>
 <br>
-
-## My projects :innocent:
-
-|  S. No.  | Project                                                                                                                     | Live Demo                                                                         |
-| :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [REST Countries](https://github.com/sakshamian/Rest-countries-API-with-theme-switcher)                              | [Live Demo](https://sakshamian.github.io/Rest-countries-API-with-theme-switcher/)               |
-| 02  | [Github User Info](https://github.com/sakshamian/Info-hub)                               | [Live Demo](https://sakshamian.github.io/Info-hub/)   |
-| 03  | [URL Shortner](https://github.com/sakshamian/URL-shortener)                       | [Live Demo](https://sakshamian.github.io/URL-shortener/) |
-| 04  | [Interactive Comments Section](https://github.com/sakshamian/interactive-comments-section)                          | [Live Demo](https://sakshamian.github.io/interactive-comments-section/)          |
-| 05  | [Rock Paper Scissors Game](https://github.com/sakshamian/rock-paper-scissors-master)                               | [Live Demo](https://sakshamian.github.io/rock-paper-scissors-master/)                |
